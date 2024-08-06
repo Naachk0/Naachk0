@@ -4,4 +4,5 @@ Estou estudando na Alura Estou me desenvolvendo na linguagem JavaScript Utilizo 
 
 renatavachiani@email.com
 (11) 965640411
+
 ![](https://media1.tenor.com/m/YmEzReszcT8AAAAC/nanami-minki.gif)
