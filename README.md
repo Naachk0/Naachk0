@@ -15,7 +15,7 @@ repachecodelicias@gmail.com (11) 965640411
 <div align="center">  
 <a href="https://github.com/naachk0">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naachk0&border_radius=4.5&title_color=90D5FF&show_icons=true&icon_color=9AA7D0&text_color=DCDCDC&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naachk0&layout=compact&langs_count=17&border_radius=4.5&title_color=90D5FF&icon_color=90D5FF&text_color=DCDCDC&theme=dark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naachk0&layout=compact&langs_count=17&border_radius=4.5&title_color=90D5FF&icon_color=90D5FF&text_color=DCDCDC&theme=dark"/>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naachk0&bg_color=00000&title_color=90D5FF&color=00bfff&line=d5e3f6&point=5c7ba3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
