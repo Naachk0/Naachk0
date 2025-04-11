@@ -4,8 +4,7 @@
 - ｡𖦹°‧ utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 - ｡𖦹°‧ Você pode entrar em contato comigo 📫
 
-repachecodelicias@gmail.com
-- (11) 965640411
+repachecodelicias@gmail.com (11) 965640411
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e1b5fe&color=b0c4de&height=75&section=header"/>
 
