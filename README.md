@@ -1,6 +1,8 @@
 ## Bem vindo ao meu perfil! Meu nome é Mayra!
 
-Estou estudando no Senai e utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos Você pode entrar em contato comigo 📫
+｡𖦹°‧ Estou estudando no Senai
+｡𖦹°‧ utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+｡𖦹°‧ Você pode entrar em contato comigo 📫
 
 repachecodelicias@gmail.com
 (11) 965640411
