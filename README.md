@@ -1,4 +1,4 @@
-## Bem vindo ao meu perfil! Meu nome é Mayra!
+## ๋࣭ ⭑ Bem vindo ao meu perfil! Meu nome é Mayra!
 
 - ｡𖦹°‧ Estudante do Senai
 - ｡𖦹°‧ utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
