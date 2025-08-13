@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">⋆˚꩜｡ profissional em desvendar enigmas.<br>⋆˚꩜｡ Fluente em inglês, espanhol e françes.<br>⋆˚꩜｡ Cosplayer <br>⋆˚꩜｡ futura Designer e desenvolvedora!</p>
+<p align="left">⋆˚꩜｡ profissional em desvendar enigmas.<br>⋆˚꩜｡ Fluente em inglês, espanhol e francês.<br>⋆˚꩜｡ Cosplayer <br>⋆˚꩜｡ futura Designer e desenvolvedora!</p>
 
 ###
 
