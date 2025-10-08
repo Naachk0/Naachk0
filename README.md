@@ -16,7 +16,7 @@
 
 <div align="center">
   <<img src="https://github-readme-stats.vercel.app/api?username=naachk0&title_color=9D80C4&text_color=f8f8f2&icon_color=50fa7b&bg_color=282a36" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naachk0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&title_color=9D80C4&text_color=f8f8f2&icon_color=50fa7b&bg_color=282a36"&hide_border=false&order=2" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naachk0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&title_color=9D80C4&text_color=f8f8f2&icon_color=50fa7b&bg_color=282a36"&hide_border=false&order />
 </div>
 
 <h2 align="left">Tecnologias 𐔌՞. .՞𐦯</h2>
