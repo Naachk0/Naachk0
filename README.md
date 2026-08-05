@@ -19,7 +19,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naachk0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&title_color=9D80C4&text_color=f8f8f2&icon_color=50fa7b&bg_color=282a36"&hide_border=false&order />
 </div>
 <div align="center">
-  <img src="https://i.pinimg.com/originals/ac/54/08/ac5408e465bb9dd4ffde1efea62e597f.gif" width="650" height="450"/>
+  <img src="https://i.pinimg.com/originals/ac/54/08/ac5408e465bb9dd4ffde1efea62e597f.gif" width="622" height="235"/>
 </div>
 
 <h2 align="left">Tecnologias 𐔌՞. .՞𐦯</h2>
