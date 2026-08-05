@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudante de Desenvolvimento de Sistemas no SENAI , estou no 2 semestre. Além disso faço Design, unindo esforço  e criatividade.<br>Minha localidade é São Paulo, na Capital.</p>
+<p align="left">Estudante de Desenvolvimento de Sistemas no SENAI , estou no 4 semestre. Além disso faço Design, unindo esforço  e criatividade.<br>Minha localidade é São Paulo, na Capital.</p>
 
 ###
 
